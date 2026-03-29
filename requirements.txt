@@ -2,5 +2,12 @@ python-dotenv
 pandas
 numpy
 joblib
+pymongo
+certifi
 
+
+-e .   
+  #important in triggering setup.py
+
+##when we run pip install requirements.txt when the installer reads -e . then it triggers setup.py to perform all the setup
  
