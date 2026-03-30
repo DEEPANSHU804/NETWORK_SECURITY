@@ -8,6 +8,19 @@ pymongo[srv]==3.11
 
 
 
+
+
+scikit-learn
+mlflow
+pyaml
+dagshub
+fastapi
+uvicorn
+python-multipart
+
+
+
+
 -e .   
   #important in triggering setup.py
 
