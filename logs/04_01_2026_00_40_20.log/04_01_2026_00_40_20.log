@@ -1,0 +1,6 @@
+[ 2026-04-01 00:40:56,040 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2026-04-01 00:40:56,050 ] 107 dagshub - INFO - Accessing as tewarideepanshu804
+[ 2026-04-01 00:40:57,066 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/tewarideepanshu804/NETWORK_SECURITY_SYSTEM "HTTP/1.1 200 OK"
+[ 2026-04-01 00:40:58,087 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2026-04-01 00:40:58,087 ] 107 dagshub - INFO - Initialized MLflow to track repo "tewarideepanshu804/NETWORK_SECURITY_SYSTEM"
+[ 2026-04-01 00:40:58,087 ] 107 dagshub - INFO - Repository tewarideepanshu804/NETWORK_SECURITY_SYSTEM initialized!
